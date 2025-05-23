@@ -1,0 +1,17 @@
+export const logo = require('../assets/images/logo.png');
+export const hide = require('../assets/images/hide.png');
+export const view = require('../assets/images/view.png');
+export const microsoft = require('../assets/images/microsoft.png');
+export const google = require('../assets/images/google.png');
+export const back = require('../assets/images/back.png');
+export const child = require('../assets/images/child.png');
+export const add = require('../assets/images/add.png');
+export const profile = require('../assets/images/profile.png');
+export const home = require('../assets/images/home.png');
+export const setting = require('../assets/images/setting.png');
+export const logout = require('../assets/images/logOut.png');
+export const rate = require('../assets/images/rate.png');
+export const TC = require('../assets/images/TandC.png');
+export const Privacy = require('../assets/images/Privacy.png');
+export const plus = require('../assets/images/plus.png');
+export const clock = require('../assets/images/clock.png');
